@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dahbest
+- 👋 Hi, I’m Çağrı.
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Python
 
