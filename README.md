@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Çağrı.
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Python / SQL
 
 <!---
 dahbest/dahbest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
